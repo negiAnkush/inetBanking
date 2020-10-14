@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+<suite name="InetBankingV1">
+
+    <listeners>
+        <listener class-name="com.inetBanking.utilities.Reporting" />
+    </listeners>
+
+    <test name="BankingApp">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+           
+               <class name="com.inetBanking.testCases.TC_LoginDDT_002" />
+         </classes>
+
+     </test>
+
+ </suite>
+ 
+ 
+ <!-- <parameter name = "choice" value="Git Operations"/>  -->      
+ <!-- <suite name = "Suite1">
+   <test name = "test1">
+   
+     <parameter name = "choice" value="Webhooks"/> 
+      <classes>
+         <class name = "inetBankingV1.HomeDepto" />
+      </classes>
+      
+   </test>
+</suite>  
+-->  

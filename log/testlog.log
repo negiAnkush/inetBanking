@@ -1,0 +1,70 @@
+2020-03-19 11:54:01,236 - ebanking -INFO - URL is Open
+2020-03-19 11:54:05,639 - ebanking -INFO - Entered username
+2020-03-19 11:54:05,908 - ebanking -INFO - Entered Password
+2020-03-19 11:54:11,759 - ebanking -INFO - Login test passed
+2020-03-27 13:05:14,365 - ebanking -INFO - URL is Open
+2020-03-27 13:05:18,691 - ebanking -INFO - Entered username
+2020-03-27 13:05:18,891 - ebanking -INFO - Entered Password
+2020-03-27 13:05:24,549 - ebanking -INFO - Login test passed
+2020-03-27 13:06:41,178 - ebanking -INFO - URL is Open
+2020-03-27 13:06:45,521 - ebanking -INFO - Entered username
+2020-03-27 13:06:45,685 - ebanking -INFO - Entered Password
+2020-03-27 13:06:51,427 - ebanking -INFO - Login test passed
+2020-04-08 12:51:28,213 - ebanking -INFO - URL is Open
+2020-04-08 12:51:32,484 - ebanking -INFO - Entered username
+2020-04-08 12:51:32,592 - ebanking -INFO - Entered Password
+2020-04-08 12:56:57,751 - ebanking -INFO - URL is Open
+2020-04-08 12:57:02,003 - ebanking -INFO - Entered username
+2020-04-08 12:57:02,114 - ebanking -INFO - Entered Password
+2020-04-08 12:57:07,739 - ebanking -INFO - Login test passed
+2020-04-08 14:10:12,361 - ebanking -INFO - URL is Open
+2020-04-08 14:10:16,642 - ebanking -INFO - Entered username
+2020-04-08 14:10:16,743 - ebanking -INFO - Entered Password
+2020-04-08 14:10:22,338 - ebanking -INFO - Login test passed
+2020-04-11 18:18:09,857 - ebanking -INFO - URL is Open
+2020-04-11 18:18:14,138 - ebanking -INFO - Entered username
+2020-04-11 18:18:14,269 - ebanking -INFO - Entered Password
+2020-04-11 18:18:19,831 - ebanking -INFO - Login test passed
+2020-04-11 18:21:13,232 - ebanking -INFO - User name is set
+2020-04-11 18:21:13,364 - ebanking -INFO - password is set
+2020-04-11 18:21:16,724 - ebanking -INFO - login successful
+2020-04-11 18:21:20,801 - ebanking -INFO - User name is set
+2020-04-11 18:21:20,981 - ebanking -INFO - password is set
+2020-04-11 18:21:24,890 - ebanking -INFO - User name is set
+2020-04-11 18:21:25,001 - ebanking -INFO - password is set
+2020-04-11 18:21:28,698 - ebanking -INFO - User name is set
+2020-04-11 18:21:28,806 - ebanking -INFO - password is set
+2020-04-14 14:30:47,856 - ebanking -INFO - User name is set
+2020-04-14 14:30:48,251 - ebanking -INFO - password is set
+2020-04-14 14:30:51,706 - ebanking -INFO - login successful
+2020-04-14 14:30:55,961 - ebanking -INFO - User name is set
+2020-04-14 14:30:56,015 - ebanking -INFO - password is set
+2020-04-14 14:30:59,239 - ebanking -INFO - login successful
+2020-04-14 14:30:59,421 - ebanking -INFO - User name is set
+2020-04-14 14:30:59,544 - ebanking -INFO - password is set
+2020-04-14 14:31:03,355 - ebanking -INFO - User name is set
+2020-04-14 14:31:03,565 - ebanking -INFO - password is set
+2020-05-04 11:44:53,622 - ebanking -INFO - User name is set
+2020-05-04 11:44:53,786 - ebanking -INFO - password is set
+2020-10-13 22:03:32,703 - ebanking -INFO - User name is set
+2020-10-13 22:03:33,035 - ebanking -INFO - password is set
+2020-10-13 22:03:36,956 - ebanking -INFO - login successful
+2020-10-13 22:03:37,136 - ebanking -INFO - User name is set
+2020-10-13 22:03:37,226 - ebanking -INFO - password is set
+2020-10-13 22:03:41,155 - ebanking -INFO - User name is set
+2020-10-13 22:03:41,236 - ebanking -INFO - password is set
+2020-10-13 22:03:45,046 - ebanking -INFO - User name is set
+2020-10-13 22:03:45,136 - ebanking -INFO - password is set
+2020-10-13 22:05:30,984 - ebanking -INFO - User name is set
+2020-10-13 22:05:31,838 - ebanking -INFO - password is set
+2020-10-13 22:05:35,564 - ebanking -INFO - User name is set
+2020-10-13 22:05:35,641 - ebanking -INFO - password is set
+2020-10-13 22:07:23,586 - ebanking -INFO - User name is set
+2020-10-13 22:07:23,679 - ebanking -INFO - password is set
+2020-10-13 22:07:28,154 - ebanking -INFO - User name is set
+2020-10-13 22:07:28,237 - ebanking -INFO - password is set
+2020-10-13 22:07:32,183 - ebanking -INFO - User name is set
+2020-10-13 22:07:32,265 - ebanking -INFO - password is set
+2020-10-13 22:07:36,136 - ebanking -INFO - User name is set
+2020-10-13 22:07:36,225 - ebanking -INFO - password is set
+2020-10-13 22:07:39,961 - ebanking -INFO - login successful

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
+  <test thread-count="5" name="test1(failed)">
+    <parameter name="choice" value="Webhooks"/>
+    <classes>
+      <class name="inetBankingV1.HomeDepto">
+        <methods>
+          <include name="setup"/>
+          <include name="senario"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- inetBankingV1.HomeDepto -->
+    </classes>
+  </test> <!-- test1(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
