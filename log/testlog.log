@@ -68,3 +68,76 @@
 2020-10-13 22:07:36,136 - ebanking -INFO - User name is set
 2020-10-13 22:07:36,225 - ebanking -INFO - password is set
 2020-10-13 22:07:39,961 - ebanking -INFO - login successful
+2020-10-14 22:32:02,291 - ebanking -INFO - User name is set
+2020-10-14 22:32:02,664 - ebanking -INFO - password is set
+2020-10-14 22:32:21,350 - ebanking -INFO - login successful
+2020-10-14 22:32:22,116 - ebanking -INFO - User name is set
+2020-10-14 22:32:22,236 - ebanking -INFO - password is set
+2020-10-14 22:32:26,124 - ebanking -INFO - User name is set
+2020-10-14 22:32:26,220 - ebanking -INFO - password is set
+2020-10-14 22:32:30,278 - ebanking -INFO - User name is set
+2020-10-14 22:32:30,362 - ebanking -INFO - password is set
+2020-10-14 22:32:34,048 - ebanking -INFO - login successful
+2020-10-14 22:32:37,956 - ebanking -INFO - User name is set
+2020-10-14 22:32:38,011 - ebanking -INFO - password is set
+2020-10-14 22:32:41,085 - ebanking -INFO - login successful
+2020-10-14 22:32:44,521 - ebanking -INFO - enter user name
+2020-10-14 22:32:44,617 - ebanking -INFO - enter user pass
+2020-10-14 22:32:45,434 - ebanking -INFO - click login
+2020-10-14 22:33:50,168 - ebanking -INFO - enter user name
+2020-10-14 22:33:50,309 - ebanking -INFO - enter user pass
+2020-10-14 22:33:52,067 - ebanking -INFO - click login
+2020-10-14 22:33:55,848 - ebanking -INFO - enter user name
+2020-10-14 22:33:55,916 - ebanking -INFO - select Gender
+2020-10-14 22:33:56,230 - ebanking -INFO - enter user DOB
+2020-10-14 22:33:56,449 - ebanking -INFO - enter address
+2020-10-14 22:33:56,571 - ebanking -INFO - enter city
+2020-10-14 22:33:56,677 - ebanking -INFO - enter State
+2020-10-14 22:33:56,999 - ebanking -INFO - enter pincode
+2020-10-14 22:33:57,098 - ebanking -INFO - enter phone
+2020-10-14 22:33:57,221 - ebanking -INFO - enter emails
+2020-10-14 22:33:57,304 - ebanking -INFO - set pass
+2020-10-14 22:37:34,819 - ebanking -INFO - User name is set
+2020-10-14 22:37:35,955 - ebanking -INFO - password is set
+2020-10-14 22:37:44,023 - ebanking -INFO - enter user name
+2020-10-14 22:37:44,123 - ebanking -INFO - enter user pass
+2020-10-14 22:37:44,838 - ebanking -INFO - click login
+2020-10-14 22:38:48,637 - ebanking -INFO - enter user name
+2020-10-14 22:38:48,724 - ebanking -INFO - enter user pass
+2020-10-14 22:38:49,297 - ebanking -INFO - click login
+2020-10-14 22:38:53,247 - ebanking -INFO - enter user name
+2020-10-14 22:38:53,306 - ebanking -INFO - select Gender
+2020-10-14 22:38:53,493 - ebanking -INFO - enter user DOB
+2020-10-14 22:38:53,790 - ebanking -INFO - enter address
+2020-10-14 22:38:54,016 - ebanking -INFO - enter city
+2020-10-14 22:38:54,156 - ebanking -INFO - enter State
+2020-10-14 22:38:54,338 - ebanking -INFO - enter pincode
+2020-10-14 22:38:54,431 - ebanking -INFO - enter phone
+2020-10-14 22:38:54,572 - ebanking -INFO - enter emails
+2020-10-14 22:38:54,660 - ebanking -INFO - set pass
+2020-10-14 22:40:51,065 - ebanking -INFO - enter user name
+2020-10-14 22:40:51,160 - ebanking -INFO - enter user pass
+2020-10-14 22:40:52,054 - ebanking -INFO - click login
+2020-10-14 22:40:55,937 - ebanking -INFO - enter user name
+2020-10-14 22:40:56,001 - ebanking -INFO - select Gender
+2020-10-14 22:41:02,321 - ebanking -INFO - enter user DOB
+2020-10-14 22:41:02,510 - ebanking -INFO - enter address
+2020-10-14 22:41:02,616 - ebanking -INFO - enter city
+2020-10-14 22:41:02,765 - ebanking -INFO - enter State
+2020-10-14 22:41:02,869 - ebanking -INFO - enter pincode
+2020-10-14 22:41:02,997 - ebanking -INFO - enter phone
+2020-10-14 22:41:03,166 - ebanking -INFO - enter emails
+2020-10-14 22:41:03,265 - ebanking -INFO - set pass
+2020-10-14 22:43:02,174 - ebanking -INFO - enter user name
+2020-10-14 22:43:02,375 - ebanking -INFO - enter user pass
+2020-10-14 22:43:03,361 - ebanking -INFO - click login
+2020-10-14 22:43:07,189 - ebanking -INFO - enter user name
+2020-10-14 22:43:07,243 - ebanking -INFO - select Gender
+2020-10-14 22:43:14,069 - ebanking -INFO - enter user DOB
+2020-10-14 22:43:14,251 - ebanking -INFO - enter address
+2020-10-14 22:43:14,398 - ebanking -INFO - enter city
+2020-10-14 22:43:14,506 - ebanking -INFO - enter State
+2020-10-14 22:43:14,637 - ebanking -INFO - enter pincode
+2020-10-14 22:43:14,815 - ebanking -INFO - enter phone
+2020-10-14 22:43:14,990 - ebanking -INFO - enter emails
+2020-10-14 22:43:15,105 - ebanking -INFO - set pass

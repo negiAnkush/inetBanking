@@ -69,6 +69,60 @@ public class AddCustomerPage {
 	@FindBy(name="sub")
 	@CacheLookup
 	WebElement btnSubmit;
+	
+	
+	public void clickAddNewUser()
+	{
+		addNewUser.click();
+	}
+	
+	public void setName(String cname)
+	{
+		txtCustName.sendKeys(cname);
+	}
+	public void sleectRadioSex()
+	{
+		rGender.click();
+	}
+	public void setDob(String mm, String dd, String yy)
+	{
+		txtDob.sendKeys(mm);
+		txtDob.sendKeys(dd);
+		txtDob.sendKeys(yy);
+	}
+	public void setAddrs(String add)
+	{
+		txtAddr.sendKeys(add);
+	}
+	public void setCity(String city)
+	{
+		txtCity.sendKeys(city);
+	}
+	public void setState(String state)
+	{
+		txtState.sendKeys(state);
+	}
+	public void setPin(int pinCode)
+	{
+		txtPin.sendKeys(String.valueOf(pinCode));
+	}
+	public void setPhone(String tel)
+	{
+		txtTel.sendKeys(tel);
+	}
+	public void setEmail(String email)
+	{
+		txtEmail.sendKeys(email);
+	}
+	public void setPass(String pass)
+	{
+		txtpass.sendKeys(pass);
+	}
+	
+	public void clickSubmit()
+	{
+		btnSubmit.click();
+	}
 		
 	
 }

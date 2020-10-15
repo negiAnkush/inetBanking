@@ -2,6 +2,7 @@ package com.inetBanking.testCases;
 
 import com.inetBanking.utilities.ReadConfig;
 import org.apache.commons.io.FileUtils;
+import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -61,6 +62,15 @@ public class TestBase {
 		File targer = new File(System.getProperty("user.dir") + "/ScreenShots/"+ tname +".png");
 		FileUtils.copyFile(source, targer);
 		System.out.println("ScreenShot taken");
+	}
+	public String genrateRandomString()
+	{
+		return RandomStringUtils.randomAlphabetic(8);
+	}
+	
+	public String genrateRandomNumber()
+	{
+		return RandomStringUtils.randomNumeric(5);
 	}
 
 }

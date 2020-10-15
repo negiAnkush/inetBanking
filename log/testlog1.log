@@ -68,3 +68,76 @@
 2020-10-13 22:07:36,136 [main] INFO ebanking - User name is set
 2020-10-13 22:07:36,225 [main] INFO ebanking - password is set
 2020-10-13 22:07:39,961 [main] INFO ebanking - login successful
+2020-10-14 22:32:02,291 [main] INFO ebanking - User name is set
+2020-10-14 22:32:02,664 [main] INFO ebanking - password is set
+2020-10-14 22:32:21,350 [main] INFO ebanking - login successful
+2020-10-14 22:32:22,116 [main] INFO ebanking - User name is set
+2020-10-14 22:32:22,236 [main] INFO ebanking - password is set
+2020-10-14 22:32:26,124 [main] INFO ebanking - User name is set
+2020-10-14 22:32:26,220 [main] INFO ebanking - password is set
+2020-10-14 22:32:30,278 [main] INFO ebanking - User name is set
+2020-10-14 22:32:30,362 [main] INFO ebanking - password is set
+2020-10-14 22:32:34,048 [main] INFO ebanking - login successful
+2020-10-14 22:32:37,956 [main] INFO ebanking - User name is set
+2020-10-14 22:32:38,011 [main] INFO ebanking - password is set
+2020-10-14 22:32:41,085 [main] INFO ebanking - login successful
+2020-10-14 22:32:44,521 [main] INFO ebanking - enter user name
+2020-10-14 22:32:44,617 [main] INFO ebanking - enter user pass
+2020-10-14 22:32:45,434 [main] INFO ebanking - click login
+2020-10-14 22:33:50,168 [main] INFO ebanking - enter user name
+2020-10-14 22:33:50,309 [main] INFO ebanking - enter user pass
+2020-10-14 22:33:52,067 [main] INFO ebanking - click login
+2020-10-14 22:33:55,848 [main] INFO ebanking - enter user name
+2020-10-14 22:33:55,916 [main] INFO ebanking - select Gender
+2020-10-14 22:33:56,230 [main] INFO ebanking - enter user DOB
+2020-10-14 22:33:56,449 [main] INFO ebanking - enter address
+2020-10-14 22:33:56,571 [main] INFO ebanking - enter city
+2020-10-14 22:33:56,677 [main] INFO ebanking - enter State
+2020-10-14 22:33:56,999 [main] INFO ebanking - enter pincode
+2020-10-14 22:33:57,098 [main] INFO ebanking - enter phone
+2020-10-14 22:33:57,221 [main] INFO ebanking - enter emails
+2020-10-14 22:33:57,304 [main] INFO ebanking - set pass
+2020-10-14 22:37:34,819 [main] INFO ebanking - User name is set
+2020-10-14 22:37:35,955 [main] INFO ebanking - password is set
+2020-10-14 22:37:44,023 [main] INFO ebanking - enter user name
+2020-10-14 22:37:44,123 [main] INFO ebanking - enter user pass
+2020-10-14 22:37:44,838 [main] INFO ebanking - click login
+2020-10-14 22:38:48,637 [main] INFO ebanking - enter user name
+2020-10-14 22:38:48,724 [main] INFO ebanking - enter user pass
+2020-10-14 22:38:49,297 [main] INFO ebanking - click login
+2020-10-14 22:38:53,247 [main] INFO ebanking - enter user name
+2020-10-14 22:38:53,306 [main] INFO ebanking - select Gender
+2020-10-14 22:38:53,493 [main] INFO ebanking - enter user DOB
+2020-10-14 22:38:53,790 [main] INFO ebanking - enter address
+2020-10-14 22:38:54,016 [main] INFO ebanking - enter city
+2020-10-14 22:38:54,156 [main] INFO ebanking - enter State
+2020-10-14 22:38:54,338 [main] INFO ebanking - enter pincode
+2020-10-14 22:38:54,431 [main] INFO ebanking - enter phone
+2020-10-14 22:38:54,572 [main] INFO ebanking - enter emails
+2020-10-14 22:38:54,660 [main] INFO ebanking - set pass
+2020-10-14 22:40:51,065 [main] INFO ebanking - enter user name
+2020-10-14 22:40:51,160 [main] INFO ebanking - enter user pass
+2020-10-14 22:40:52,054 [main] INFO ebanking - click login
+2020-10-14 22:40:55,937 [main] INFO ebanking - enter user name
+2020-10-14 22:40:56,001 [main] INFO ebanking - select Gender
+2020-10-14 22:41:02,321 [main] INFO ebanking - enter user DOB
+2020-10-14 22:41:02,510 [main] INFO ebanking - enter address
+2020-10-14 22:41:02,616 [main] INFO ebanking - enter city
+2020-10-14 22:41:02,765 [main] INFO ebanking - enter State
+2020-10-14 22:41:02,869 [main] INFO ebanking - enter pincode
+2020-10-14 22:41:02,997 [main] INFO ebanking - enter phone
+2020-10-14 22:41:03,166 [main] INFO ebanking - enter emails
+2020-10-14 22:41:03,265 [main] INFO ebanking - set pass
+2020-10-14 22:43:02,174 [main] INFO ebanking - enter user name
+2020-10-14 22:43:02,375 [main] INFO ebanking - enter user pass
+2020-10-14 22:43:03,361 [main] INFO ebanking - click login
+2020-10-14 22:43:07,189 [main] INFO ebanking - enter user name
+2020-10-14 22:43:07,243 [main] INFO ebanking - select Gender
+2020-10-14 22:43:14,069 [main] INFO ebanking - enter user DOB
+2020-10-14 22:43:14,251 [main] INFO ebanking - enter address
+2020-10-14 22:43:14,398 [main] INFO ebanking - enter city
+2020-10-14 22:43:14,506 [main] INFO ebanking - enter State
+2020-10-14 22:43:14,637 [main] INFO ebanking - enter pincode
+2020-10-14 22:43:14,815 [main] INFO ebanking - enter phone
+2020-10-14 22:43:14,990 [main] INFO ebanking - enter emails
+2020-10-14 22:43:15,105 [main] INFO ebanking - set pass

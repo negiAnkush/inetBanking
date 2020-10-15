@@ -3,14 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.inetBanking.testCases.PriorityTest">
+      <class name="com.inetBanking.testCases.TC_AddCustomer_003">
         <methods>
-          <include name="performSearchAndClick"/>
-          <include name="launchGoogle"/>
-          <include name="aopenBrowser"/>
-          <include name="fbPageTitleVerification"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="addcustomer"/>
         </methods>
-      </class> <!-- com.inetBanking.testCases.PriorityTest -->
+      </class> <!-- com.inetBanking.testCases.TC_AddCustomer_003 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
